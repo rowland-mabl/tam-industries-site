@@ -2,7 +2,7 @@
   "name": "tam-industries-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rowland-mabl.github.io/tam-industries-site",
+  "homepage": ".",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
