@@ -33,7 +33,17 @@ const TAMIndustries = () => {
         'Webinars'
       ]
     },
-    { label: 'COMPANY', href: '#company' },
+    { 
+      label: 'COMPANY', 
+      dropdown: [
+        'Team',
+        'Careers',
+        'News & Awards',
+        'Partners',
+        'Contact Us'
+      ]
+    },
+    
     { label: 'BLOG', href: '#blog' }
   ];
 
